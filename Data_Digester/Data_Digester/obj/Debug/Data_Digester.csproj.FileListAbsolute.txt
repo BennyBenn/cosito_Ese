@@ -1,1 +1,2 @@
 c:\users\entidades1\documents\visual studio 2012\Projects\Data_Digester\Data_Digester\bin\Debug\Data_Digester.exe.config
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\bin\Debug\Data_Digester.exe.config
