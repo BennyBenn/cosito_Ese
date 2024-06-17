@@ -1,2 +1,11 @@
 c:\users\entidades1\documents\visual studio 2012\Projects\Data_Digester\Data_Digester\bin\Debug\Data_Digester.exe.config
 C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\bin\Debug\Data_Digester.exe.config
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\obj\Debug\Data_Digester.csprojResolveAssemblyReference.cache
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\obj\Debug\Data_Digester.Form1.resources
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\obj\Debug\Data_Digester.Properties.Resources.resources
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\obj\Debug\Data_Digester.csproj.GenerateResource.Cache
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\bin\Debug\pruebas.mdb
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\bin\Debug\Data_Digester.exe
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\bin\Debug\Data_Digester.pdb
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\obj\Debug\Data_Digester.exe
+C:\Users\ENTIDADES1\Documents\Visual Studio 2012\Projects\cosito_Ese\Data_Digester\Data_Digester\obj\Debug\Data_Digester.pdb
